@@ -58,9 +58,19 @@ A 3D browser-based tactical drone simulation built with Three.js. Take command o
 
 ---
 
-## Quick Start
+## Requirements & Prerequisites
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/](https://github.com/)<your-username>/RoboDrone.git
-cd RoboDrone
+- Python 3.8+
+- Modern web browser (Chrome, Edge, Firefox, or Safari)
+- Python packages (install via `pip install -r requirements.txt`):
+  - **`urllib3`** (or URI handler utilities)
+  - **`pywebview`** (for launching the app in a standalone native desktop GUI window)
+
+---
+
+## Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/](https://github.com/)<your-username>/RoboDrone.git
+   cd RoboDrone

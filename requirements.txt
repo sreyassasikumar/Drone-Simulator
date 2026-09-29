@@ -1,2 +1,5 @@
 ursina
 pyinstaller
+pywebview
+# Local server & development utilities (optional)
+flask>=3.0.0

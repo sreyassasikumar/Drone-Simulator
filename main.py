@@ -5,7 +5,7 @@ from ursina import *
 
 def main():
     # Path to your HTML file
-    html_file = os.path.abspath("DRONE__OPS.html")
+    html_file = os.path.abspath("asset/DRONE__OPS.html")
     
     if not os.path.exists(html_file):
         print(f"Error: Could not find '{html_file}' in the current directory.")

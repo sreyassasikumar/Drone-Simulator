@@ -70,11 +70,14 @@ A 3D browser-based tactical drone simulation built with Three.js. Take command o
 
 ## Installation & Setup
 
-1. **Clone the repository:**
+1. **Make sure thar PYTHON IDLE is installed**
    ```bash
    python -m pip install pywebview
    python -m pip install ursina
-   
+
+2. **Clone the repository:**
+   ```bash
    git clone https://github.com/sreyassasikumar/Drone-Simulator.git
    cd Drone-Simulator
    python main.py
+

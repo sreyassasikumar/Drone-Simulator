@@ -72,6 +72,6 @@ A 3D browser-based tactical drone simulation built with Three.js. Take command o
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/sreyassasikumar/Drone-Simulator.git]
+   git clone https://github.com/sreyassasikumar/Drone-Simulator.git
    cd Drone-Simulator
    python main.py

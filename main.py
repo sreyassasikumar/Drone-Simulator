@@ -97,14 +97,6 @@ def distance_3d(a, b):
     )
 
 
-def vector_magnitude(vector):
-    return math.sqrt(
-        vector.x * vector.x +
-        vector.y * vector.y +
-        vector.z * vector.z
-    )
-
-
 def safe_normalize(vector):
     magnitude = vector_magnitude(vector)
 

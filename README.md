@@ -9,22 +9,22 @@ A 3D browser-based tactical drone simulation built with Three.js. Take command o
 - **Physics & Flight Dynamics:** Realistic inertia, wind drift, motor RPM spin-up, tilt stabilization, altitude damping, and collision damage.
 - **Combat & Targeting:** Equipped with onboard cannons, target scanning, lock-on tracking, and gimbal elevation controls.
 - **Dynamic Weather & Day/Night Cycle:** Experience changing daylight, coastal storms, heavy rain, wind vectors, and visibility shifts.
-- **Interactive HUD:** Live telemetry tracking hull integrity, battery draw, signal strength, GPS status, speed, altitude, and objective markers[cite: 2].
-- **Campaign & Upgrades:** Complete 8 distinct sorties to earn credits and upgrade battery capacity, motors, propellers, armor, sensors, camera vision, and weapons[cite: 2].
-- **Dual Camera Views:** Switch seamlessly between third-person chase cam and first-person cockpit (FPV) view[cite: 2].
+- **Interactive HUD:** Live telemetry tracking hull integrity, battery draw, signal strength, GPS status, speed, altitude, and objective markers.
+- **Campaign & Upgrades:** Complete 8 distinct sorties to earn credits and upgrade battery capacity, motors, propellers, armor, sensors, camera vision, and weapons.
+- **Dual Camera Views:** Switch seamlessly between third-person chase cam and first-person cockpit (FPV) view.
 
 ---
 
 ## Mission Sorties
 
-1. **First Flight:** Master takeoff, flight stabilization, waypoint navigation, and autolanding[cite: 2].
-2. **Delivery:** Pick up cargo from the depot and transport it safely across city airspace[cite: 2].
-3. **Pursuit:** Intercept and shadow a moving high-speed target drone within close range[cite: 2].
-4. **Search:** Deploy radar pulses over farmlands to locate and secure a hidden beacon[cite: 2].
-5. **Airspace:** Engage and neutralize hostile scout drones and heavy gunships[cite: 2].
-6. **Storm:** Navigate severe winds, lightning, and rain while dealing with signal degradation[cite: 2].
-7. **Damaged:** Take off with pre-existing rotor damage and impaired controls to complete an emergency run[cite: 2].
-8. **Extraction:** High-stakes night mission under severe battery constraints and active hostile patrols[cite: 2].
+1. **First Flight:** Master takeoff, flight stabilization, waypoint navigation, and autolanding.
+2. **Delivery:** Pick up cargo from the depot and transport it safely across city airspace.
+3. **Pursuit:** Intercept and shadow a moving high-speed target drone within close range.
+4. **Search:** Deploy radar pulses over farmlands to locate and secure a hidden beacon.
+5. **Airspace:** Engage and neutralize hostile scout drones and heavy gunships.
+6. **Storm:** Navigate severe winds, lightning, and rain while dealing with signal degradation.
+7. **Damaged:** Take off with pre-existing rotor damage and impaired controls to complete an emergency run.
+8. **Extraction:** High-stakes night mission under severe battery constraints and active hostile patrols.
 
 ---
 
